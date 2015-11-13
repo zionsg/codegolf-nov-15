@@ -2,7 +2,7 @@
 
 ## Rules: 
 
-1) All languages allowed
+1) All languages allowed (including [Pyth](https://esolangs.org/wiki/Pyth))
 
 2) No imports, requires, etc
 
