@@ -16,4 +16,4 @@
 
 ## Code submission
 
-Submit a pull request to the respective question folder with your answer!
+Submit a pull request to the respective question folder with your answer file in the format `yourname.format`. e.g. `johndoe.py`
