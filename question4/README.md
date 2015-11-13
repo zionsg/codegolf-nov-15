@@ -61,3 +61,5 @@ abCdefghijklmnopqrstuvwxyz
 aBcdefghijklmnopqrstuvwxyz
 Abcdefghijklmnopqrstuvwxyz
 ```
+
+[http://codegolf.stackexchange.com/questions/53812/make-the-mexican-wave](http://codegolf.stackexchange.com/questions/53812/make-the-mexican-wave)

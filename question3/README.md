@@ -25,3 +25,5 @@ Input -> Output
 "1011" -> 3 (1011 -> 11 -> 3)
 "1100100" -> 4 (1100100 -> 100 -> 4)
 ```
+
+[http://codegolf.stackexchange.com/questions/63564/simplify-binary](http://codegolf.stackexchange.com/questions/63564/simplify-binary)

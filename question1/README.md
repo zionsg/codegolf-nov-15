@@ -11,3 +11,5 @@ Write the shortest code that outputs the inverse like so:
 ## Type signature
 
 f(string) -> string
+
+[http://codegolf.stackexchange.com/questions/30361/the-shortest-code-to-invert-a-binary-string](http://codegolf.stackexchange.com/questions/30361/the-shortest-code-to-invert-a-binary-string)
