@@ -1,0 +1,63 @@
+# Kallang Wave 
+
+Kolmogorov complexity, informally, is the amount of code it takes to produce a given string of text. 
+
+## Type signature
+
+f() -> string
+
+### Output:
+
+```
+Abcdefghijklmnopqrstuvwxyz
+aBcdefghijklmnopqrstuvwxyz
+abCdefghijklmnopqrstuvwxyz
+abcDefghijklmnopqrstuvwxyz
+abcdEfghijklmnopqrstuvwxyz
+abcdeFghijklmnopqrstuvwxyz
+abcdefGhijklmnopqrstuvwxyz
+abcdefgHijklmnopqrstuvwxyz
+abcdefghIjklmnopqrstuvwxyz
+abcdefghiJklmnopqrstuvwxyz
+abcdefghijKlmnopqrstuvwxyz
+abcdefghijkLmnopqrstuvwxyz
+abcdefghijklMnopqrstuvwxyz
+abcdefghijklmNopqrstuvwxyz
+abcdefghijklmnOpqrstuvwxyz
+abcdefghijklmnoPqrstuvwxyz
+abcdefghijklmnopQrstuvwxyz
+abcdefghijklmnopqRstuvwxyz
+abcdefghijklmnopqrStuvwxyz
+abcdefghijklmnopqrsTuvwxyz
+abcdefghijklmnopqrstUvwxyz
+abcdefghijklmnopqrstuVwxyz
+abcdefghijklmnopqrstuvWxyz
+abcdefghijklmnopqrstuvwXyz
+abcdefghijklmnopqrstuvwxYz
+abcdefghijklmnopqrstuvwxyZ
+abcdefghijklmnopqrstuvwxYz
+abcdefghijklmnopqrstuvwXyz
+abcdefghijklmnopqrstuvWxyz
+abcdefghijklmnopqrstuVwxyz
+abcdefghijklmnopqrstUvwxyz
+abcdefghijklmnopqrsTuvwxyz
+abcdefghijklmnopqrStuvwxyz
+abcdefghijklmnopqRstuvwxyz
+abcdefghijklmnopQrstuvwxyz
+abcdefghijklmnoPqrstuvwxyz
+abcdefghijklmnOpqrstuvwxyz
+abcdefghijklmNopqrstuvwxyz
+abcdefghijklMnopqrstuvwxyz
+abcdefghijkLmnopqrstuvwxyz
+abcdefghijKlmnopqrstuvwxyz
+abcdefghiJklmnopqrstuvwxyz
+abcdefghIjklmnopqrstuvwxyz
+abcdefgHijklmnopqrstuvwxyz
+abcdefGhijklmnopqrstuvwxyz
+abcdeFghijklmnopqrstuvwxyz
+abcdEfghijklmnopqrstuvwxyz
+abcDefghijklmnopqrstuvwxyz
+abCdefghijklmnopqrstuvwxyz
+aBcdefghijklmnopqrstuvwxyz
+Abcdefghijklmnopqrstuvwxyz
+```
