@@ -1,6 +1,6 @@
 def f():
-    abc=[chr(97+i)for i in xrange(26)]
-    ABC=[chr(65+i)for i in xrange(26)] 
-    for i in range(26)+range(25)[::-1]:
-        print ''.join(abc[:i])+ABC[i]+''.join(abc[i+1:])
-
+    z=range(26)
+    a=[chr(97+i)for i in z]
+    A=[chr(65+i)for i in z]
+    for i in z+z[:-1][::-1]:
+        print ''.join(a[:i])+A[i]+''.join(a[i+1:])
